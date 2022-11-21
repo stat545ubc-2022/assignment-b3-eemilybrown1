@@ -1,0 +1,13 @@
+name: BCLiquor
+title: BCLiquor
+username:
+account: eemilybrown
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7697061
+bundleId: 6540307
+url: https://eemilybrown.shinyapps.io/BCLiquor/
+when: 1669060638.89253
+lastSyncTime: 1669060638.89253
+asMultiple: FALSE
+asStatic: FALSE
