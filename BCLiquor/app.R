@@ -1,8 +1,9 @@
 library(shiny)
 library(tidyverse)
 library(shinythemes)
+library(RCurl)
 
-bcl <- read_csv("C:/Users/emmie/UBC/Stat 545/B/Lecture notes/BCLiquor/bcl-data.csv")
+bcl <- read_csv("bcl-data.csv")
 
 ggplot(bcl, aes(Alcohol_Content)) +
   geom_histogram()
